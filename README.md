@@ -1,16 +1,13 @@
-### Hi there 👋
+# CUPZYY
 
-<!--
-**CUPZYY/CUPZYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am i?
+I'm a self thought Java, Python and SikuliX developer from Norway. I like making minecraft mods and discord bots.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+Invisibility(Discord Bot)
+AutoKit(Forge Mod)
+- 🌱 I’m currently learning:
+More Java and Modding
+- 📫 How to reach me:
+Contact me via discord: `CUPZYY#8104`
