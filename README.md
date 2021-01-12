@@ -1,11 +1,11 @@
 # CUPZYY
 
-### Who am I?
+## Who am I?
 I'm a self thought Java, Python and SikuliX developer from Norway.<br />I like making minecraft mods and discord bots.
 
 
 - 🔭 I’m currently working on: <br />
-Invisibility(Discord Bot)
+Invisibility(Discord Bot)<br />
 AutoKit(Forge Mod)
 - 🌱 I’m currently learning: <br />
 More Java and Modding
