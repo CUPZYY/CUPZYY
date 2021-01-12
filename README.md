@@ -1,6 +1,6 @@
 # CUPZYY
 
-### Who am i?
+### Who am I?
 I'm a self thought Java, Python and SikuliX developer from Norway.<br />I like making minecraft mods and discord bots.
 
 
