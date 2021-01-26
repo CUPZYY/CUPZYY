@@ -10,7 +10,7 @@ AutoKit(Forge Mod)(Java)
 - 🌱 I’m currently learning: <br />
 More Java and Modding
 - 📫 How to reach me: <br />
-Contact me via discord: `CUPZYY#8104`
+Contact me via discord: `CUPZYY#0419`
 
 
 You can visit my website at: <br />
