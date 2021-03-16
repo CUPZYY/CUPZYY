@@ -3,7 +3,7 @@
 ![CUPZYY's GitHub stats](https://github-readme-stats.vercel.app/api?username=CUPZYY&count_private=true&show_icons=true&theme=dark)]
 
 ### Who am I?
-I'm a self thought Java, Python and SikuliX developer from Norway.<br />I like making minecraft mods and discord bots.
+I'm a self taught Java, Python and SikuliX developer from Norway.<br />I like making minecraft mods and discord bots.
 
 
 - 🔭 I’m currently working on: <br />
