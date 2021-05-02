@@ -7,8 +7,7 @@ I'm a self taught Java, Python and SikuliX developer from Norway.<br />I like ma
 
 
 - 🔭 I’m currently working on: <br />
-Invisibility(Discord Bot)(Python)<br />
-AutoKit(Forge Mod)(Java)
+[Backdoor Machine](https://github.com/CUPZYY/Backdoor-Machine)<br />
 - 🌱 I’m currently learning: <br />
 More Java and Modding
 - 📫 How to reach me: <br />
