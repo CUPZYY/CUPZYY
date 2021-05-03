@@ -16,3 +16,5 @@ Contact me via discord: `CUPZYY#0193`
 
 You can visit my website at: <br />
 https://cupzyy.tk/
+
+![](https://komarev.com/ghpvc/?username=CUPZYY&style=flat-square)
