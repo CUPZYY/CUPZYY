@@ -7,7 +7,7 @@ I'm a self taught Java and Python developer from Norway.<br />I like making mine
 
 
 - 🔭 I’m currently working on: <br />
-[Backdoor Machine](https://github.com/CUPZYY/Backdoor-Machine)<br />
+[BleachHack CupEdition](https://github.com/CUPZYY/BleachHack-CupEdition)<br />
 - 🌱 I’m currently learning: <br />
 More Java and Modding
 - 📫 How to reach me: <br />
