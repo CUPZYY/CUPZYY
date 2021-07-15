@@ -11,7 +11,7 @@ I'm a self taught Java and Python developer from Norway.<br />I like making mine
 - 🌱 I’m currently learning: <br />
 More Java and Modding
 - 📫 How to reach me: <br />
-Contact me via discord: `CUPZYY#0001`
+Contact me via discord: `CUPZYY#8874`
 
 
 You can visit my website at: <br />
