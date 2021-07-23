@@ -13,6 +13,9 @@ More Java and Modding
 - 📫 How to reach me: <br />
 Contact me via discord: `CUPZYY#8874`
 
+Also, yes I am the creator of backdoor machine. <br />
+I made it private simply because it's unethical and I originally made it for fun and just posted it on github just to kind of show what I've made not intending people actually using it maliciously. I will not give you it if you ask me :)
+
 
 You can visit my website at: <br />
 https://cupzyy.tk/
