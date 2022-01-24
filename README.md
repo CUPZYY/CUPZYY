@@ -9,7 +9,7 @@ I'm a self taught Java and Python developer from Norway.<br />I like making mine
 - 🔭 I’m currently working on: <br />
 [Invisibility](https://smallbrain.club/Invisibility)<br />
 - 📫 How to reach me: <br />
-Contact me via discord: `CUPZYY#1667`
+Contact me via discord: `CUPZYY#6129`
 
 Also, yes I am the creator of backdoor machine. <br />
 I made it private simply because it's unethical and I originally made it for fun and just posted it on github just to kind of show what I've made not intending people actually using it maliciously. I will not give you it if you ask me :)
