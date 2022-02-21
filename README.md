@@ -7,7 +7,7 @@ I'm a self taught Java and Python developer from Norway.<br />I like making mine
 
 
 - 🔭 I’m currently working on: <br />
-[Invisibility](https://smallbrain.club/Invisibility)<br />
+[Invisibility](https://smallbrain.club/invisibility)<br />
 - 📫 How to reach me: <br />
 Contact me via discord: `CUPZYY#6129`
 
