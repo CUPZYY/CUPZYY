@@ -29,4 +29,6 @@ I made it private simply because it's unethical and I originally made it for fun
 You can visit my website at: <br />
 https://cupzyy.tk/
 
+Lavt på bananen
+
 ![](https://komarev.com/ghpvc/?username=CUPZYY&style=flat-square)
