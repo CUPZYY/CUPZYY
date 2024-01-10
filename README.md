@@ -5,7 +5,7 @@ Lavt på bananen
 ![CUPZYY's GitHub stats](https://github-readme-stats.vercel.app/api?username=CUPZYY&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
 
 ### Who am I?
-I'm a self taught Java and Python developer from Norway.<br />I like making useful applications, minecraft mods and stuff like that.<br />I'm also the king of starting a project but not finishing it👑
+I'm a self taught Java, Python and Web developer from Norway.<br />I like making useful applications and things.<br />
 
 
 - 🔭 I’m currently working on: <br />
